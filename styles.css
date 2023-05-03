@@ -32,16 +32,16 @@ body{
 	height:100px;
 	justify-content:center;
 }
-.main-article span{
+.main-article p{
 	position:relative;
 	top:50px;
 	right:80px
 }
-.pic{
+.pictorial-news-section{
 	width:190px;
 	background-color:white;
 }
-.pic img{
+.pictorial-news-section img{
 	width:150px;
 }
 .main div{
